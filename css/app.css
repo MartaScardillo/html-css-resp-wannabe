@@ -1,7 +1,18 @@
+@media (max-width: 1160px) {
+
+    .container {
+        width: 100%;
+        max-width: 1160px;
+    }
+
+}
+
+
 @media (max-width: 768px) {
     
     .container {
-        width: 768px;
+        width: 100%;
+        max-width: 768px;
     }
 
 }
@@ -9,7 +20,8 @@
 @media (max-width: 480px) {
     
     .container {
-        width: 480px;
+        width: 100%;
+        max-width: 480px;
     }
 
     .row {
