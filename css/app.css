@@ -35,4 +35,23 @@
         width: 100%;
         text-align: center;
     }
+
+    .why-us {
+        background-color: #222222;
+        margin-bottom: 0;
+        padding-top: 80px;
+    }
+
+    .steps {
+        margin: 0;
+    }
+
+    h2 {
+        font-size: 40px;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
 }
